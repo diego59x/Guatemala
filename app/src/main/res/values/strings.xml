@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Guatemala</string>
+    <string name="picture_1">imageview</string>
+    <string name="guate">String</string>
+    <string name="guatemala">Guatemala</string>
+    <string name="name">Nombre:</string>
+    <string name="my_name" />
+    <string name="a_name" />
+    <string name="boton_1">Peten</string>
+    <string name="boton_2">Izabal</string>
+    <string name="boton_3">Antigua</string>
+    <string name="boton_star">star</string>
+    <string name="boton_return">tienequefuncionarpptm</string>>
+
+</resources>
